@@ -31,11 +31,16 @@
 
 </div>
 
-<div align="center">
+<<div align="center">
 
-<img height="150" src="https://streak-stats.demolab.com?user=4ndreLuis&theme=dark&hide_border=true&cache_seconds=86400" />
+<a href="https://streak-stats.demolab.com?user=4ndreLuis&theme=dark&hide_border=true" target="_blank">
+  <img height="150" src="https://streak-stats.demolab.com?user=4ndreLuis&theme=dark&hide_border=true&cache_seconds=86400&v=2" />
+</a>
 
 </div>
+>
+
+
 
 
 
