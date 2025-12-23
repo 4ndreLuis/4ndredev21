@@ -28,20 +28,9 @@
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=4ndreLuis&show_icons=true&theme=dark&hide_border=true&count_private=true" />
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndreLuis&layout=compact&theme=dark&hide_border=true&langs_count=8" />
-
+## 🔥 Streak de Contribuições
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4ndreLuis&theme=dark&hide_border=true)
 </div>
-
-<<div align="center">
-
-<a href="https://streak-stats.demolab.com?user=4ndreLuis&theme=dark&hide_border=true" target="_blank">
-  <img height="150" src="https://streak-stats.demolab.com?user=4ndreLuis&theme=dark&hide_border=true&cache_seconds=86400&v=2" />
-</a>
-
-</div>
->
-
-
-
 
 
 ---
