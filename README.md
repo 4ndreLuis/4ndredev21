@@ -1,31 +1,62 @@
-# Sejam bem-vindos!!!
+# 👋 Olá, seja bem-vindo ao meu GitHub!
 
-Desenvolvedor Full Stack Jr. focado em React. Em transição de carreira aos 38 anos, estudo autodidaticamente com HTML, CSS e JS intermediário, objetivo React, aceito ajudas!
+💻 **Desenvolvedor Full Stack Jr.** | ⚛️ Foco em **React** | ♿ Acessibilidade  
+🔄 Em transição de carreira aos **38 anos** | Estudante autodidata e disciplinado  
 
-## 🚀 Habilidades
-- Frontend: React, JavaScript, HTML/CSS
-- Backend: Node.js (aprendendo), PostgreSQL
-- Ferramentas: Git, VS Code
+---
+
+## 🚀 Stack & Habilidades
+
+| Frontend | Backend | Ferramentas |
+|--------|--------|-------------|
+| React, JavaScript, HTML, CSS | Node.js *(em aprendizado)*, PostgreSQL | Git, GitHub, VS Code |
+
+---
 
 ## 📂 Projetos em Destaque
-- [Projeto 1](link): Construindo, chegando lá :D.
-- [Projeto 2](link): Construindo também !! .
 
-## 📈 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4ndreLuis&show_icons=true&theme=dark&hide_border=true&count_private=true)
+- 🚧 **[Projeto 1](link)** — Construindo, chegando lá 😄  
+- 🚧 **[Projeto 2](link)** — Em desenvolvimento contínuo  
 
-## 💻 Linguagens Mais Usadas
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4ndreLuis&layout=compact&theme=dark&hide_border=true&langs_count=8)
+> 📌 Em breve: projetos completos com foco em **React + boas práticas + acessibilidade**
 
-## 🔥 Streak de Contribuições
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4ndreLuis&theme=dark&hide_border=true)
+---
 
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=4ndreLuis&theme=dark)
+## 📊 GitHub em Números
 
-## 🌐 Redes Sociais e Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/4ndredev/)  
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:4ndredev21@gmail.com)
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=4ndreLuis&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndreLuis&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=4ndreLuis&theme=dark&hide_border=true" />
+
+</div>
+
+---
 
 ## 🛠️ Tecnologias
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+</div>
+
+---
+
+## 🌐 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/4ndredev/)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:4ndredev21@gmail.com)
+
+</div>
