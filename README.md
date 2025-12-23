@@ -1,4 +1,4 @@
-# 👋 Olá, seja bem-vindo ao meu GitHub!
+# 👋 Olá, seja bem-vindo a trajetória de quem está começando do zero absoluto \o/
 
 💻 **Desenvolvedor em formação Full Stack Jr.**  
 ⚛️ Foco em **React** | ♿ **Acessibilidade**
