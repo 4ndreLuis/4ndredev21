@@ -1,7 +1,7 @@
 # 👋 Olá, seja bem-vindo a trajetória de quem começou do zero absoluto aos 38 ao caminho do "SIM" tão sonhado \o/
 Vryxos Tech (saiu essa palavra do nada em uma brincadeira com meu dog é um possível nome de empresa pessoal rs)
 
-💻 **Desenvolvedor em formação Full Stack Jr.**  
+💻 **Desenvolvedor em formação React | Node.js | Next.js | postgreSQL **  
 ⚛️ Foco em **React** | ♿ **Acessibilidade**
 
 🔄 Em transição de carreira aos **38 anos**  
